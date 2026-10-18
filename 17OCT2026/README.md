@@ -9,3 +9,5 @@
 4.secret solver.. I learned how to make a password
 
 5.ride rush...I learned how to make events happen that can change depending on luck
+
+6.feed and play... I learned how to creat set vareables
